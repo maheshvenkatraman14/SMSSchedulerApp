@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_218a6413927f461825d8394d1d81689c9405b9d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_33b50e0a588122dbf19f268ce9b8c8b3e68c9222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/SMSSchedulerApp/react-native-get-sms-android/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7e74852210ffd69a560e93be81a05c66daa7316">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/SMSSchedulerApp-react-native-get-sms-android-unspecified_cabba144b956aecc7ba94c543684b52bb67b8bd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e5305602d6c8fb5e05aa32e56f00120ab39f6a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7aad2f4df60dc69e0c016e9feac2f46f7f9dfef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/SMSSchedulerApp/react-native-contacts-wrapper/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b2cfe664c0c0ebf411f5325ad3a4b1eaf1fcd69f">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/SMSSchedulerApp-react-native-contacts-wrapper-unspecified_8f819dc0b5b2dc03294375dbcbde1a61c408c538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_417a6813044ea0109c2a4ed7c34cf272af5f855e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fd618eec78ffe9cc59e1aa29d3f1703a7b538454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_061bee164481464d8f3f017d9eacd2d4691a6883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.firebase/firebase-jobdispatcher/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19ee64437d8799315c2563ec27c05fa588e2b552">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.firebase-firebase-jobdispatcher-0.7.0_8ecc6e1b297dca6f20679773c3ba0156c3aa0fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_22def0aac7535ac207c600597b0541fc79dd54f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/SMSSchedulerApp/react-native-schedule-sms/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ef09a817a4d6a71d9304236c1d7e2d9e5360e7a">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/SMSSchedulerApp-react-native-schedule-sms-unspecified_95b8d3a1ef7e4a8241b1b899c81f3fcd86ed58b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_691b89d0d69d2040c390bbe32fa3cbcd87b9cf4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_61c55d5ecfe614fc2aa823b3ff9d02a2edc31ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/SMSSchedulerApp/react-native-sms/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="184d639100fbac726052b261d632d222633ddc8a">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/SMSSchedulerApp-react-native-sms-unspecified_e919c6e8710c30f1a6eed1b3c364afc8b7af9a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7b6c57903793f649477b0eed37ededb1236a5282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e5de724c4e2a1daba26eae559bbdb51ee2afcdd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_706ab9aee1ec8d779eea489a5bd2d9717e0109e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_f5468c524d5f1da90608edd01294b4fe043a1dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6a1398cfe95203541a10b122a7398fecf854f9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e3e1dfcdf1091ad62101747e52cf18170b899a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/SMSSchedulerApp/react-native-send-intent/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="06d381dcf202d8c399f9c9b82a472b439b823f19">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/SMSSchedulerApp-react-native-send-intent-unspecified_68a36df27b084014b1f9fb37c3a16a69165a9436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_048b7edcedabaecefd2da76e772a256f1905baac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ca14c5ff06d50f78557727f2f67f3e2d53022372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d6d607908a2a504993e0dc93001f506810c702cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_f761a8fb2af1a3119aa948cf1d5b78f40da8b717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_f6ccf87e4c6f625bc20b53644ec20a34b70d5618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_6f5e83268ccfcb6738b676063d2a742efd73dccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_609a78036157d33eb5ff42f74ebe5a1cd430eca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_2c2158fc4cbf7517dd77b44d032f33dd2c4051c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_c401816c59f445921910720ec04e5b752f1eaa92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b64d0aaebd612e64d8c19002cd6f1c00e9fa086c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_78339462d6ab119d0df692f0a83a2e4a1b74390e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a6019b16e0417d62db075c6591130e767ee46d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/SMSSchedulerApp/react-native-background-job/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d0f35c10ae19fb1c4e61cb4af3856fe1fa57d99">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/SMSSchedulerApp-react-native-background-job-unspecified_8aeecea45a6c46b388d26c94fef0c9411b76ed51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_e60fe211f1237853a60e57936330236c086edfb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/MVenkatraman/Desktop/MaheshPersonal/SMSSchedulerApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f50be152989dccf5208e9e8e086269ba624a1d04.jar" />
+    </item>
+
+</items>
